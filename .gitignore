@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+.env
+.DS_Store
+# Ignore system files
+.DS_Store
+Thumbs.db
+ 
+# Optional: VS Code settings
+.vscode/
